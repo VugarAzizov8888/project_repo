@@ -1,3 +1,3 @@
 My project
 ## Contributors
-- Your Name
+- Vuqar,Nermin,Irada,Cicek
