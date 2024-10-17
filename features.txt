@@ -1,0 +1,2 @@
+- Feature 1: User authentication 
+- Feature 2: Data encryption
